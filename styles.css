@@ -368,3 +368,13 @@ ul.socials li a {
     
   }
 }
+
+@media (max-width: 500px){
+  ul.navbar {
+    font-size: 20px;
+  }
+  
+  ul.navbar li a{
+    padding: 20px 16px;
+  }
+}
