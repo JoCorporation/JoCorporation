@@ -396,3 +396,7 @@ ul.socials li a {
     padding: 20px 16px;
   }
 }
+
+@media (max-width: 700px) {
+    ul li {float: none;}
+}
